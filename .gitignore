@@ -1,0 +1,6 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+my_secret_data/*
+sensitive_patient_data/*
