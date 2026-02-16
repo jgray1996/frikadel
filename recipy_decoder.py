@@ -5,6 +5,8 @@ import time
 import getpass
 import pickle
 
+# password: strongpassword321
+
 def decode_recipy(name):
     with open('ingredients.pkl', 'rb') as file:
             data = pickle.load(file)
